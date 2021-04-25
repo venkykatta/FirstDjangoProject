@@ -9,3 +9,4 @@ def index(request):
         "newyear" : now.month ==1 and now.day == 1
         # "newyear" : True
     })
+    
